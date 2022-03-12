@@ -1,0 +1,6 @@
+{
+  "domain": "dev-kq05z3ur.us.auth0.com",
+  "clientID": "ElPHcSSScs9Ox4SvNTb9kqAnOSiSPpwK",
+  "responseType": "id_token token",
+  "scope": "openid profile email"
+}
